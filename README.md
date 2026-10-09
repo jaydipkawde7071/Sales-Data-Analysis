@@ -1,7 +1,4 @@
 # Sales Data Analysis Project
-## 📸 Sales Analysis Dashboard
-
-![Sales Analysis Dashboard](images/sales_dashboard.png)
 
 ## 📸 Sales Analysis Dashboard
 
