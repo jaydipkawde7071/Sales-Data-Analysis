@@ -1,8 +1,8 @@
 # Sales Data Analysis Project
 
-## 📸 Sales Analysis Dashboard
+## 📊 Dashboard Preview
 
-![Sales Analysis Dashboard](sales_dashboard.png)
+![Sales Dashboard](images/dashboard.png)
 ## Project Overview
 
 This project analyzes sales data using Python, Pandas, and Matplotlib.
