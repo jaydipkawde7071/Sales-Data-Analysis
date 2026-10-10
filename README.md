@@ -33,7 +33,7 @@ This project analyzes sales data using Python, Pandas, and Matplotlib.
 
 ### Dashboard Preview
 
-![Sales Analysis Dashboard](dashboard.png)
+![Sales Analysis Dashboard](Dashboard.png)
 
 ### Project File
 
