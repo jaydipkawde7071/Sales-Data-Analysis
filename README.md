@@ -29,6 +29,16 @@ This project analyzes sales data using Python, Pandas, and Matplotlib.
 * Sales_Data_Analysis.ipynb
 * Sales_Analysis_Report.xlsx
 
+## Sales Analysis Dashboard
+
+### Dashboard Preview
+
+![Sales Analysis Dashboard](dashboard.png)
+
+### Project File
+
+* Sales_Analysis_Dashboard.xlsx
+
 ## Dataset
 
 This project uses sample sales data created for learning and demonstration purposes.
