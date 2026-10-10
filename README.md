@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](dashboards.png.png)
 ## Project Overview
 
 This project analyzes sales data using Python, Pandas, and Matplotlib.
